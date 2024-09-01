@@ -1,6 +1,6 @@
 import axios from 'axios';
 const api = axios.create({
-    baseURL: `https://tap-backend.vercel.app/api`,
+    baseURL: `https://darrel-clicker-game-backend-1.onrender.com/api`,
     headers: {
       'Content-Type': 'application/json'
     }
